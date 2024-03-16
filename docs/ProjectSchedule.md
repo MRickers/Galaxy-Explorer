@@ -3,7 +3,7 @@
 ## Month 1: Planning and Setup
 - [ ] **By March 16:**
   - [ ] Finalize game concept and mechanics.
-  - [ ] Set up development environment (IDE, Raylib, version control).
+  - [x] Set up development environment (IDE, Raylib, version control).
 - [ ] **By March 23:**
   - [ ] Design game architecture and data structures.
   - [ ] Create initial wireframes for UI elements.
